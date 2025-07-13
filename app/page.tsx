@@ -26,7 +26,7 @@ export default function Home() {
               experiences.
             </p>
             <div className="flex gap-4">
-              <Link href="#cotact">
+              <Link href="#contact">
                 <Button
                   size="lg"
                   className="bg-primary hover:bg-primary/90 hover:ring-2 hover:ring-primary hover:ring-offset-2 hover:ring-offset-black transition-all duration-300"
@@ -34,7 +34,8 @@ export default function Home() {
                   Contact Me
                 </Button>
               </Link>
-              <Link href="https://x0xi89gol64etorp.public.blob.vercel-storage.com/muhammad%20saqib%20%287%29-62UjyjNaH5FzJUO4mT4CYEtj2sEjEO.pdf" target='_blank'>
+              {/* <Link href="https://x0xi89gol64etorp.public.blob.vercel-storage.com/muhammad%20saqib%20%287%29-62UjyjNaH5FzJUO4mT4CYEtj2sEjEO.pdf" target='_blank'> */}
+              <Link href="https://docs.google.com/document/d/1O1LQRXR1gxOMZZ7tyo2gC80N49difg7uZcKNBczck78/edit?pli=1&tab=t.0" target='_blank'>
                 <Button
                   size="lg"
                   variant="outline"
@@ -101,8 +102,8 @@ export default function Home() {
             <div>
               <h4 className="font-semibold mb-4">Contact Us</h4>
               <ul className="space-y-2 text-gray-400">
-                <li>dev.saqib.attiq@gmail.com</li>
-                <li>+923186818220</li>
+                <li>haseebtahir787@gmail.com</li>
+                <li>+92 3259181505</li>
                 <li>Faisal Town Moon Market, Lahore, Pakistan</li>
               </ul>
             </div>

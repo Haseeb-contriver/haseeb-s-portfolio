@@ -22,7 +22,8 @@ export const metadata: Metadata = {
     siteName: "Haseeb Portfolio",
     images: [
       {
-        url: "https://x0xi89gol64etorp.public.blob.vercel-storage.com/Screenshot%202025-03-14%20035702-fx5vEPW2DE8S56vJN5gt5OJRcSXZTv.webp",
+        // url: "https://x0xi89gol64etorp.public.blob.vercel-storage.com/Screenshot%202025-03-14%20035702-fx5vEPW2DE8S56vJN5gt5OJRcSXZTv.webp",
+        url: "https://docs.google.com/document/d/1O1LQRXR1gxOMZZ7tyo2gC80N49difg7uZcKNBczck78/edit?pli=1&tab=t.0",
         width: 1200,
         height: 630,
         alt: "Haseeb - Web Developer Portfolio"

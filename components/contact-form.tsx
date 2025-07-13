@@ -66,7 +66,7 @@ export default function ContactForm() {
                   </div>
                   <div>
                     <h3 className="font-semibold">Phone</h3>
-                    <p className="text-muted-foreground">+92 3186818220</p>
+                    <p className="text-muted-foreground">+92 3259181505</p>
                   </div>
                 </div>
                 <div className="flex items-center gap-4">
@@ -75,7 +75,7 @@ export default function ContactForm() {
                   </div>
                   <div>
                     <h3 className="font-semibold">Email</h3>
-                    <p className="text-muted-foreground">dev.saqib.attiq@gmail.com</p>
+                    <p className="text-muted-foreground">haseebtahir787@gmail.com</p>
                   </div>
                 </div>
                 <div className="flex items-center gap-4">
@@ -84,7 +84,7 @@ export default function ContactForm() {
                   </div>
                   <div>
                     <h3 className="font-semibold">Address</h3>
-                    <p className="text-muted-foreground">Faisal Town Moon Market, Lahore, Pakistan</p>
+                    <p className="text-muted-foreground">Faisal Town, Lahore, Pakistan</p>
                   </div>
                 </div>
               </div>
