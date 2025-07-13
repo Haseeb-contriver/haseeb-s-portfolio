@@ -13,9 +13,9 @@ interface SEOProps {
 }
 
 export default function SEOHead({
-  title = "Saqib | Web Developer & Designer",
+  title = "Haseeb | Web Developer & Designer",
   description = "Professional web developer specializing in React, Next.js, and modern web technologies. View my portfolio of projects and services.",
-  keywords = "web developer, frontend developer, React developer, Next.js, portfolio, Saqib, web design",
+  keywords = "web developer, frontend developer, React developer, Next.js, portfolio, Haseeb, web design",
   ogImage = "/og-image.jpg",
   ogType = "website",
   twitterCard = "summary_large_image",

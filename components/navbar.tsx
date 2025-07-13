@@ -28,7 +28,7 @@ export default function StylishDeveloperLogo() {
           textShadow: isHovered ? "0 0 10px rgba(255, 255, 255, 0.5)" : "none",
         }}
       >
-        Saqib
+        Haseeb
       </span>
     </div>
   )

@@ -18,7 +18,7 @@ export default function Home() {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
           <div>
             <h1 className="text-4xl lg:text-6xl font-bold mb-4">
-              I am Saqib
+              I am Haseeb
               <span className="block text-primary mt-2">Next-Level Frontend Developer.</span>
             </h1>
             <p className="text-gray-400 mb-8">
@@ -77,7 +77,7 @@ export default function Home() {
         <div className="container mx-auto px-4 py-12">
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
             <div>
-              <h3 className="text-xl font-bold mb-4">Saqib</h3>
+              <h3 className="text-xl font-bold mb-4">Haseeb</h3>
               <p className="text-gray-400">
                 Full Stack Developer based in your location. Available for freelance work.
               </p>
@@ -108,7 +108,7 @@ export default function Home() {
             </div>
           </div>
           <div className="border-t border-gray-800 mt-12 pt-8 text-center text-gray-400">
-            <p>© 2025 Saqib. All rights reserved.</p>
+            <p>© 2025 Haseeb. All rights reserved.</p>
           </div>
         </div>
       </footer>
