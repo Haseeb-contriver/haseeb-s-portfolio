@@ -49,7 +49,7 @@ export default function Home() {
           <div className="relative">
             <div className="relative aspect-square max-w-[400px] mx-auto">
               <Image
-                src="https://x0xi89gol64etorp.public.blob.vercel-storage.com/1719347211618-_2_-XXcxLvDDRVfRmYWJZxvHc5MiyawyVO.webp"
+                src="/my-pic.jpeg"
                 alt="Profile"
                 fill
                 className="rounded-2xl object-cover"
