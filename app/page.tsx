@@ -49,7 +49,7 @@ export default function Home() {
           <div className="relative">
             <div className="relative aspect-square max-w-[400px] mx-auto">
               <Image
-                src="/my-pic.jpeg"
+                src="/profile-pic.png"
                 alt="Profile"
                 fill
                 className="rounded-2xl object-cover"
